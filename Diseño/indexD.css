@@ -1,0 +1,123 @@
+.azul {
+    width: 100%;
+    height: 6rem;
+    padding: 1rem 0 0 3rem;
+}
+.logo {
+    width: 25rem;
+    height: auto;
+
+    /* Alineación de items */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo img {
+    width: 4.5rem;
+}
+.logo h1{
+    padding-left: 1rem;
+}
+
+.caja-padre {
+    width: 100%;
+    height: auto;
+
+    /* Alineación de items */
+    display: flex;
+    flex-direction: row;
+}
+
+.rojo {
+    width: 25%;
+    height: 40rem;
+    background-color: black;    
+}
+.rojo img{
+    width: 80%;
+    height: 40rem;
+    padding: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.verde {
+    width: 74%;
+    height: 40rem;
+    background-color: rgb(255, 129, 11);
+
+    /* Alineacion de items */
+    display: flex;
+    flex-direction: row-reverse;
+}
+.naranja-1, .naranja-2, .naranja-3 {
+    width: 30%;
+    height: 35rem;
+    
+
+    margin: 1rem;
+}
+.naranja-1 img {
+    width: 100%;
+    height: 20rem;
+    padding: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.ero{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+}
+.naranja-1{
+    background-color: aqua;
+}
+.naranja-2 img{
+    width: 100%;
+    height: 20rem;
+    padding: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.Azul{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;  
+}
+.naranja-2{
+    background-color: chocolate;
+}
+.naranja-3 img{
+    width: 100%;
+    height: 20rem;
+    padding: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.miau{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;  
+}
+.naranja-3{
+    background-color: crimson;
+}
+    
+.morado {
+    width: 100%;
+    height: 6rem;
+    background-color: cadetblue;
+}
+.centro{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+
+}
